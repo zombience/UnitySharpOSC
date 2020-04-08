@@ -1,0 +1,4 @@
+/lfo/fast
+/lfo/slow
+/noise/fast
+/noise/slow

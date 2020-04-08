@@ -1,0 +1,5 @@
+{
+    "port": 9023,
+    "allowDebugLog": false,
+    "oscEnabled": true
+}
